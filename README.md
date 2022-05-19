@@ -1,2 +1,4 @@
 # -Covid-19-Bot
-Here I have developed a covid-19 chatbot where I have made use of Google Dialogflow platform.
+Here I have developed a covid-19 chatbot where I have made use of Google Dialogflow platform. Google Dialogflow platform is a wonderful platform where you can make use and create a wonderful chatbot using your convenience and relevant information.
+In this project of COVID-19 BOT in which I have made use of Intents, Entities, Parameters, and logic of chatbot. The platform through which I created this chatbot is GOOGLE DIALOGFLOW ES.   In which I learnt that intents and entities play a big role as intents are used as training phrases for the agent. To discover the optimal match, Dialogflow compares the expression to the training words for each intent. Intent classification is the process of matching an intent. Here entities play a big role in extracting the type of information from the content. 
+
